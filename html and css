@@ -1,1 +1,110 @@
+HTML- Hypertext Markup Language. 
+Html serves as a channel for different types of content like words, images, videos etc. 
+The web consist of 3 programming languages which is: HTML,CSS and JAVASCRIPT.
+Html has a straight forward structure without any programming logic,loops or functions.
+It is known as a DECLARATIVE LANGUAGE.
+The purpose of HTML markup is to give meaning to the content and help computers understand it.
+
+CSS- short for cascading style sheet. It is responsible for how everything looks.
+
+JAVASCRIPT- is a programming that allows you to create really cool and interactive stuff. It can do things that Html and Css cannot even dream of. 
+Html syntax- is a language used to structure web pages.
+DOM- Document Object Model
+Html Bold and Italics- There are 4 html elements realted to this, two for bold and two for italics.
+
+Html lists:
+-unoredered list
+-ordered list
+-definition list
+
+Unordered list are the most commonly used type. For example: a list of ingrediants for a recipe. Each item is in the list is enclosed in an <li> element, which represents a list item.
+
+
+Html Superscripts, subscripts and small text.
+-subscripts, superscripts and small texts can be used where you need to mark-up certain bits of content as having a different meaning than the rest.
+-subscripts are characters that are set above the normal baseline of text. Mathematical formulas have many superscripts. 
+
+
+The titel Attribute:
+-The titel attribute defines some extra information about an element.
+
+Html links
+-html links are defined with the <a> tag 
+example- <a href= "https://www.w3schools.com">  This is a link</a>
+
+Html capabilities:
+Troubleshooting and Debugging html code:
+There are 3 sections
+1.html on the left
+2.css in the middle
+3.more options on the right
+
+Html Attributes:
+The class attribute <p class="intro">
+
+
+ARIA ROLES:
+- Aria roles are like extra attributes that we can add to html elements to make them more meaningful and help browsers understand what they represent.
+
+Html SVG Graphics
+SVG(scalable vector graphics)
+
+What is svg ?
+-stands for scalable vector graphics.
+-is used to define vector based graphics for the web.
+-svg defines graphics in xml format.
+-each element and attribute in svg files can be animated.
+-svg is a w3c recommendation. 
+
+The <svg> element:
+-The html <svg> element is a container for svg graphics.
+
+
+Html media
+-multimedia on the web is sound, music, videos.movies and animations.
+-the common way to discover the type of a file, is to look at the file extension.
+
+color adding to a website formula:
+<body style="background:grey">
+
+Html canvas graphics
+-The html <canvas> element is used to draw graphics on a web page.
+
+What is html canvas?
+-the html <canvas> element is used to draw graphics on the fly via Javascript.
+-the <canvas> element is only a container for graphics. You must use javascript to actually draw the graphics.
+Canvas examples: a canvas is a rectangular area on an html page. By default,a canvas has no border and no content.
+The mark-up looks like this: <canvas id="mycanvas" width="200" height="200"></canvas>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
